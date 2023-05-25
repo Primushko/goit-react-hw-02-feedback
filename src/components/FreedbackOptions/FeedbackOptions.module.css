@@ -10,8 +10,8 @@
   border: none;
   border-radius: 20px;
   text-align: center;
-  background-color: #f3f6f9;
-  color: #82909e;
+  background-color: #9fc5eb;
+  color: #161718;
   transition: all 800ms;
 }
 .feedback__btn:hover {
